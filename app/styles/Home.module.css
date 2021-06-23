@@ -74,6 +74,7 @@
 .card h2 {
   margin: 0 0 1rem 0;
   font-size: 1.5rem;
+	font-family: 'Syncopate', sans-serif;
 }
 
 .card p {
@@ -88,7 +89,8 @@
 }
 
 .pink {
-	color: #EE1D52
+	color: #EE1D52;
+	font-family: 'Syncopate', sans-serif;
 }
 
 @media (max-width: 600px) {
@@ -103,4 +105,8 @@
 	border-radius: 10px;
 	padding: 20px;
 	margin-bottom: 40px;
+}
+
+.date {
+	font-family: 'Syncopate', sans-serif;
 }
