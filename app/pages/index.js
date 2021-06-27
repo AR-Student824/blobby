@@ -121,7 +121,7 @@ export default function Home() {
 						</a>
 
 						<a
-							href="/#lol-no-website"
+							href="https://reefraid.com"
 							className={styles.card}
 						>
 							<h2>Pyxel &rarr;</h2>
