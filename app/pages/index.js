@@ -117,16 +117,16 @@ export default function Home() {
 							className={styles.card}
 						>
 							<h2>aboutDavid &rarr;</h2>
-							<p>aboutDavid is taking a break right now so I cannot ask him what to put here just yet</p>
+							<p>Hi! I&apos;m David! I&apos;m a teen just trying to code, find me at aboutdavid.me/@UpscaleDavid on twitter</p>
 						</a>
 
 						<a
-							href="https://pyxel.ml"
+							href="/#lol-no-website"
 							className={styles.card}
 						>
 							<h2>Pyxel &rarr;</h2>
 							<p>
-								Pyxel will kill me if I text him so idk what to put here, unless if Pyxel notices this and tells me what to add.
+							i&apos;m pyxel and german is good soisoisoisoi
             </p>
 						</a>
 					</div>
