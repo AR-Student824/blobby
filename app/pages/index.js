@@ -98,7 +98,7 @@ export default function Home() {
             </p>
 						</a>
 						<a
-							href="https://divvyr.ml"
+							href="https://totallyusefulapi.ml"
 							className={styles.card}
 						>
 							<h2>TotallyUsefulAPI &rarr;</h2>
