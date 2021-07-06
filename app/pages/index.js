@@ -97,6 +97,15 @@ export default function Home() {
 								A social media application where you can discover what the world is up to.
             </p>
 						</a>
+						<a
+							href="https://divvyr.ml"
+							className={styles.card}
+						>
+							<h2>TotallyUsefulAPI &rarr;</h2>
+							<p>
+							A suite of simple yet useful APIs to make your work easier, no API key required
+            </p>
+						</a>
 					</div>
 				</div>
 
