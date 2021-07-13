@@ -98,7 +98,7 @@ export default function Home() {
 					<h3 style={{ marginBottom: "20px" }}>
 						All that for just a boost
 				</h3>
-					Boosting Blobby on Discord allows more people to discover Blobby, and helps<br />Blobby out a lot long term, which is why we<br />are willing to offer tons of perks for<br />just one boost. Thanks for your support for helping<br />us make Blobby better.
+					<p>Boosting Blobby on Discord allows more people to discover Blobby, and helps<br />Blobby out a lot long term, which is why we<br />are willing to offer tons of perks for<br />just one boost. Thanks for your support for helping<br />us make Blobby better.</p>
 				</div>
 			</main>
 		</div>

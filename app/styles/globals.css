@@ -12,7 +12,11 @@ body {
 	background-color: #263f6a;
 	color: white;
 }
-
+p {
+  margin: 0;
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
 a {
   color: inherit;
   text-decoration: none;
