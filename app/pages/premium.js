@@ -14,7 +14,7 @@ export default function Home() {
 
 			<main className={styles.main}>
 				<h1 className={styles.title} id="title">
-					A <span className={styles.pink}>cheap</span> premium service for our apps
+					One <span className={styles.pink}>cheap</span> premium<br />service for all our apps
 				</h1>
 
 				<p className={styles.description}>
@@ -98,7 +98,7 @@ export default function Home() {
 					<h3 style={{ marginBottom: "20px" }}>
 						All that for just a boost
 				</h3>
-					Boosting Blobby on Discord allows more people to discover Blobby, and helps Blobby out a lot long term, which is why we are willing to offer tons of perks for just one boost. Thanks for your support for helping us make Blobby better,
+					Boosting Blobby on Discord allows more people to discover Blobby, and helps<br />Blobby out a lot long term, which is why we<br />are willing to offer tons of perks for<br />just one boost. Thanks for your support for helping<br />us make Blobby better.
 				</div>
 			</main>
 		</div>
