@@ -63,7 +63,7 @@ export default function Home() {
 						Blobby on Social Media
 				</h3>
 					<div className={styles.grid}>
-						<a href="https://discord.gg/new" className={styles.card}>
+						<a href="https://discord.gg/windows" className={styles.card}>
 							<h2>Discord &rarr;</h2>
 							<p>Join the Discord server for a friendly community and tons of emojis.</p>
 						</a>
